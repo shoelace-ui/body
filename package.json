@@ -11,6 +11,7 @@
     "stylus": "^0.44.0"
   },
   "dependencies": {
-    "shoelace-ui-font": "git+https://github.com/shoelace-ui/font.git"
+    "shoelace-ui-font": "git+https://github.com/shoelace-ui/font.git",
+    "shoelace-ui-gray": "git+https://github.com/shoelace-ui/gray.git"
   }
 }
