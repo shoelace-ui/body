@@ -1,9 +1,9 @@
 {
   "name": "shoelace-ui-body",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Default `body` styles",
   "repository": "https://github.com/shoelace-ui/body.git",
-  "keywords": ["shoelace", "body"],
+  "keywords": ["stylus", "shoelace", "body"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
   "devDependencies": {
@@ -11,7 +11,7 @@
     "stylus": "^0.44.0"
   },
   "dependencies": {
-    "shoelace-ui-font": "git+https://github.com/shoelace-ui/font.git",
-    "shoelace-ui-gray": "git+https://github.com/shoelace-ui/gray.git"
+    "shoelace-ui-font": "^0.1.0",
+    "shoelace-ui-gray": "^0.1.0"
   }
 }
